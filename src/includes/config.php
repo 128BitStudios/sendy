@@ -24,7 +24,7 @@
 	$charset = 'utf8mb4';
 	
 	/*  Set this if you use a non standard MySQL port.  */
-	$dbPort = 3306;	
+	$dbPort = 6003;	
 	
 	/*  Domain of cookie (99.99% chance you don't need to edit this at all)  */
 	define('COOKIE_DOMAIN', '');
