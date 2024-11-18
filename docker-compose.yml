@@ -43,8 +43,7 @@ services:
       - app-network
 
 networks:
-  app-network:
-    driver: bridge
+  sendy:
 
 volumes:
   dbdata:
